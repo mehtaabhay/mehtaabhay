@@ -1,4 +1,4 @@
-# Hello <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="25">
+# Behind the Keyboard ⌨️
 I'm a Software Engineer focused on building and maintaining full-stack web applications, REST APIs, and AI-powered automation systems. Currently, I work on developing production-grade applications, integrating AI workflows, and managing deployments across modern cloud infrastructure. Experienced in frontend and backend development using React.js, JavaScript, Node.js, Express.js, Prisma, and modern databases. I work with AI technologies, automation platforms, and third-party integrations to build scalable and reliable solutions. Skilled in cloud deployment and infrastructure management using Vercel, Hetzner, Supabase, Git, and GitHub. My work includes API development, production support, performance optimization, debugging, and deploying applications from development to production environments. I focus on building efficient software systems that simplify workflows, improve productivity, and solve real-world business problems.
 
 
